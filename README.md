@@ -6,7 +6,7 @@ A responsive front-end project with three pages:
 - Contact form with name, email, and message fields
 
 ## Features
-- Responsive design (works on PC and laptop)
+- Responsive design (works on PC and mobile)
 - Sidebar navigation
 - Clean UI with catalog and contact form
 - Organized project structure
