@@ -5,6 +5,9 @@ A responsive front-end project with three pages:
 - Product catalog with multiple sunglasses styles
 - Contact form with name, email, and message fields
 
+## 🔗 Live Demo
+Check out the project here: [ShadeX-Store Live](https://krishnavka.github.io/ShadeX-Store/)
+
 ## Features
 - Responsive design (works on desktop and mobile)
 - Sidebar navigation
