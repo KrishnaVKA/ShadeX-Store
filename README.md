@@ -36,6 +36,3 @@ A responsive front-end project with three pages:
 **Mobile View**
 ![Contact Mobile](Screenshots/contact-mobile.png)
 
-
-## How to Run
-- Open index.html in your browser.
