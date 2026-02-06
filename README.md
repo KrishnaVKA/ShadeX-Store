@@ -15,26 +15,26 @@ A responsive front-end project with three pages:
 
 ### Landing Page
 **Desktop View**
-![Landing Desktop](screenshots/landing-desktop(1).png)
-![Landing Desktop](screenshots/landing-desktop(2).png)
+![Landing Desktop](Screenshots/landing-desktop(1).png)
+![Landing Desktop](Screenshots/landing-desktop(2).png)
 
 **Mobile View**
-![Landing Mobile](screenshots/landing-mobile(1).png)
-![Landing Mobile](screenshots/landing-mobile(2).png)
+![Landing Mobile](Screenshots/landing-mobile(1).png)
+![Landing Mobile](Screenshots/landing-mobile(2).png)
 
 ### Product Catalog
 **Desktop View**
-![Catalog Desktop](screenshots/catalog-desktop.png)
+![Catalog Desktop](Screenshots/catalog-desktop.png)
 
 **Mobile View**
-![Catalog Mobile](screenshots/catalog-mobile.png)
+![Catalog Mobile](Screenshots/catalog-mobile.png)
 
 ### Contact Form
 **Desktop View**
-![Contact Desktop](screenshots/contact-desktop.png)
+![Contact Desktop](Screenshots/contact-desktop.png)
 
 **Mobile View**
-![Contact Mobile](screenshots/contact-mobile.png)
+![Contact Mobile](Screenshots/contact-mobile.png)
 
 
 ## How to Run
